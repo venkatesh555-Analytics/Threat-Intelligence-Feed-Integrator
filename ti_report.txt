@@ -1,1 +1,5 @@
-
+185.220.101.1 → Malicious (VT:14, Abuse:100)
+185.220.101.2 → Malicious
+185.220.102.1 → Safe
+45.33.32.160 → Suspicious
+8.8.8.8 → Safe
