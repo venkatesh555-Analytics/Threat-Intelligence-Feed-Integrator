@@ -1,5 +1,4 @@
 # Threat-Intelligence-Feed-Integrator
-# Threat Intelligence IOC Enrichment using VirusTotal & AbuseIPDB
 
 ## Project Overview
 This project demonstrates automated threat intelligence enrichment of IP indicators using VirusTotal and AbuseIPDB APIs. It identifies malicious, suspicious, and benign IPs based on reputation scores.
